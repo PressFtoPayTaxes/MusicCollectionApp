@@ -1,0 +1,17 @@
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\LINQ.DataAccess.dll.config
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\LINQ.DataAccess.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\LINQ.DataAccess.pdb
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\LINQ.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\LINQ.Models.pdb
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.pdb
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.Migrations.InitialMigration.resources
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.DataAccess\obj\Debug\LINQ.DataAccess.csproj.GenerateResource.cache

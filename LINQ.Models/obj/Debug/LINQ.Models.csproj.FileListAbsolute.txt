@@ -1,0 +1,5 @@
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.Models\bin\Debug\LINQ.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.Models\bin\Debug\LINQ.Models.pdb
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.Models\obj\Debug\LINQ.Models.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.Models\obj\Debug\LINQ.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\LINQ\LINQ.Models\obj\Debug\LINQ.Models.pdb
